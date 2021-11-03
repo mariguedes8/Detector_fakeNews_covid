@@ -1,0 +1,17 @@
+É #FAKE que vídeo mostre robô identificando status de vacinação das pessoas nas ruas em Singapura.
+Robô é usado para patrulhas e não tem como atribuição verificar quem foi vacinado ou não.
+Circula pelas redes sociais um vídeo que mostra um robô policial acompanhado de uma legenda que diz que Singapura implantou um robô de reconhecimento facial para identificar o status de vacinação das pessoas. 
+O robô Xavier, de fato, existe, opera em Singapura e fiscaliza o cumprimento dos protocolos de prevenção da Covid. No entanto, ele não é capaz de identificar o status de vacinação dos cidadãos. Procurado pelo G1, o governo de Singapura informa que não está entre as atribuições da máquina fazer reconhecimento facial para identificar se pessoas estão ou não vacinadas contra a doença.
+
+"Xavier não usa reconhecimento facial para identificar o status de vacinação das pessoas", diz o governo.
+
+A mensagem falsa circula em redes sociais de grupos antivacina, que aproveitam informações sobre novas tecnologias para difundir teorias conspiratórias distópicas que buscam impor medo, relacionando o imunizante com o que propagam ser o fim das liberdades individuais.
+
+De acordo com o governo de Singapura, pela primeira vez robôs terrestres são colocados em teste para patrulhar e inspecionar uma área pública com grande tráfego de pedestres e auxiliar o trabalho dos funcionários públicos na melhoria da saúde e da segurança públicas.
+O projeto envolve cinco agências públicas de Singapura: Home Team Science and Technology Agency (HTX), National Environment Agency, Land Transport Authority, Singapore Food Agency e Housing & Development Board.
+
+Por um período de três semanas, Xavier (o nome do robô HTX [1]) abrirá caminho de forma autônoma através da multidão em Toa Payoh Central para detectar comportamentos sociais indesejáveis, como fumar em áreas proibidas, comércio ilegal, estacionar bicicletas em locais indevidos, fazer reuniões com mais de cinco pessoas e circulação de dispositivos motorizados e motocicletas em áreas proibidas.
+
+O robô é equipado com sensores, incluindo recursos de segurança, para permitir uma navegação autônoma e evitar obstáculos como pedestres e veículos ao longo de sua rota de patrulha configurados previamente por agentes públicos.
+
+Ele tem câmeras que podem fornecer vídeo de 360 ​​graus para o centro de comando e controle. Os dados capturados das câmeras de Xavier são transmitidos para um sistema de análise de vídeo com capacidade de inteligência artificial desenvolvida pelos engenheiros de visão computacional internos da HTX. Com detecção e análise em tempo real, os funcionários públicos podem obter insights sobre esses comportamentos de forma mais eficiente e eficaz e ativar recursos adicionais para responder a situações no terreno quando necessário.
