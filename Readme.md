@@ -12,7 +12,7 @@ Após a coleta, foi realizado um balanceamento manual, em que para cada notícia
 # Pré Processamento
 > Foi realizada a análise do Corpus com técnicas de pre perocessamento dados a fim de se conhecer as caracteristicas do corpus construído.
 
-# Treinamento dos Métodos
+# Métodos Treinados
 
 * TFIDF com Naive Bayes
 * TFIDF com SVM
