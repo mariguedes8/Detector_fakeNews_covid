@@ -14,8 +14,8 @@ Após a coleta, foi realizado um balanceamento manual, em que para cada notícia
 
 # Treinamento dos Métodos
 
-*TFIDF com Naive Bayes
-*TFIDF com SVM
-*TFIDF com Random Forest
+* TFIDF com Naive Bayes
+* TFIDF com SVM
+* TFIDF com Random Forest
 
 
